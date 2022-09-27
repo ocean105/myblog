@@ -1,102 +1,14 @@
 ---
-title: First Post123
+title: First Post
 author: Chris
 layout: post
 ---
+Lorem ipsum dolor sit amet, iusto ridens dictas te sed. Error latine vis et. Ex cum munere definitiones, ne quas debitis contentiones cum, epicurei constituam ea sit. Dicant aeterno dolorum ex eum, qui everti iisque consectetuer ea! Duo in falli similique, nec tritani accusam te. Enim sapientem intellegat te pri, nam at atqui accumsan vituperata.
 
-<!doctype html>
-<html>
-<head>
-    <title>title</title>
-    <meta charset="utf-8">
-</head>
+Sed id graeci feugiat. No meis summo consequat vel! Albucius phaedrum omittantur eos an, ex sit lorem possim perpetua. Usu et sumo posidonium, ut qui dicat sapientem tincidunt, et has consul oporteat torquatos! In qui fabulas facilisis, justo nonumes an his, quo vidisse nusquam facilisis no. Eam iriure mediocrem suavitate an?
 
-<body>
-    <h1>HTML</h1>
-    미리 상상하고 계획하는 과정: 기획
+Quo te solum malorum prompta, porro oblique senserit cum et! Pro wisi cetero periculis ei, nam ullum dicit accusam ne, ad quo apeirian principes dissentiunt. An mea mucius vocent iisque? Vel eu altera consetetur, clita perfecto mea ad. Eos in vero ullum regione, ei veniam disputando pro, nam et iuvaret detracto voluptua.
 
-    <strong>HyperText Markup Language</strong><br>
-    PUBLIC DOMAIN: 저작권 X
+Ad tritani deleniti sit, ne per ubique habemus singulis. Pro at integre alienum mediocritatem, mea ad libris adipisci necessitatibus, nostro constituam sit te. Recusabo oportere et mea, case minimum deleniti no quo, deseruisse conclusionemque vis te. Nam ex iudicabit constituam accommodare, dicam singulis ex eos! Eu mea viderer ceteros repudiandae, id erat voluptatum mea, ut consul omittam convenire quo. Id justo ipsum mei, modus contentiones per et! At mel omnium lucilius instructior, vel quando graeco in, eos docendi periculis eloquentiam ut.
 
-    Hyper Text:초월한 텍스트 + Hyper Link:다른 문서로 연결하는 링크
-
-    URL: Uniform Resource Locator<br>
-    <u>Scheme</u> 사용프로토콜 ://<u>host</u> 도메인명 or IP/<u>path</u> 경로
-
-    <h>head</h>
-    <u>underline</u>
-    <br>break<br>
-    <p>paragraph</p>
-    <div><b>division</b> block-level element</div>
-    <span>inline element</span>
-
-    <p>
-        <img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/3135/7648.png"><br>
-        <strong>src: </strong> Attribute 속성
-    </p>
-
-    <ol>
-        <li>List1</li>
-        <li>List2</li>
-        <li>List3</li>
-    </ol>
-
-    <ul>
-        <li>List1</li>
-        <li>List2</li>
-        <li>List3</li>
-    </ul>
-
-    <a href="naver.com" target="_blank" title="tooltip">anchor: hypertest reference</a>
-
-    <p>
-        <h3>Internet Vs WEB</h3>
-
-        Internet(Web 포함함)
-        인터넷이 도시라면 웹은 도시 위에 있는 건물 하나입니다.
-        인터넷이 도로라면 웹은 도로 위를 달리는 자동차 한 대라고 할 수 있습니다.
-        인터넷이 운영체제라면 웹은 운영체제 위에서 동작하는 하나의 앱이라고 할 수 있습니다.
-
-        벤 다이어그램으로 살펴본다면 웹이 인터넷의 부분집합입니다. 또 웹과 동급인 기술이 별처럼 많이 있습니다. 여러분도 웹과 동급인 기술을 개발할 수 있습니다. 성공할 수 있는지는 별개 문제겠지만요.
-
-        이 관계를 역사적으로 살펴보면 정보기술 역사상 중요한 사건 2개가 1960년대와 1990년대에 있었습니다.
-        
-        1960년은 인터넷이 탄생합니다. 1990년에는 웹이 시작됩니다. 두 기술은 무려 30년의 시차를 가지고 세상에 태어났습니다.
-        우리가 이 두 기술을 잘 구분하지 못하는 것은 웹이 너무나 성공했기 때문입니다. 또 웹 때문에 사람들이 인터넷을 쓰기 시작했기 때문입니다. 그만큼 웹은 중요한 기술입니다.
-        
-        1960년은 인류역사에서 처음이자 마지막이었던 핵전쟁이 끝난 지 얼마되지 않은 때 였습니다. 당시에 핵에 대한 공포는 상상을 초월하는 것이었습니다. 
-        미국에서는 핵공격이 일어났을 때 통신시스템에 심각한 취약점이 있다는 것을 발견했습니다.
-        당시에는 통신 시스템이 중앙집중적이었기 때문에 핵공격을 당하면 통신이 마비되는 위험이 있었던 것입니다.
-        이런 문제를 극복하기 위해서 분산된 형태의 통신시스템을 구상하게 되는데 그것이 인터넷의 시작이었습니다.
-        수많은 통신장치들이 각자 일종의 전화국 역할을 하는 상호부조 시스템이 인터넷인 것이죠. 인터넷은 위의 그림처럼 중앙이 없습니다. 하나가 파괴되도 나머지가 역할을 하게 됩니다.
-        이렇게 1960년에 인터넷이 출발합니다. 그렇게 30년 동안 인터넷은 천천히 확산됩니다. 이 기간동안 일반인들은 인터넷이 세상에 있다는 것조차 잘 몰랐습니다. 대학, 군대, 기업들만 사용하는 엘리트 시스템이었거든요.
-
-        1990년 획기적인 사건이 발생합니다. 바로 웹의 탄생입니다.
-        왜 산 좋고 물 좋은 스위스에서 정보기술 역사상 가장 중요한 사건 중의 하나로 평가 받고 있는 웹이 태어났을까요?
-        스위스에는 유럽입자물리 연구소(CERN)라는 저명한 연구소가 있습니다.
-        이 연구소에는 강입자 가속기라는 기계가 있습니다. 이 기계는 인류가 만든 기계 중에 가장 복잡하고, 비싸고, 거대한 것입니다. 그 둘레가 무려 27km입니다.
-        과학자들은 이 사진에 있는 관을 통해서 입자를 고속으로 회전시킵니다. 그리고 입자와 입자를 꽝하고 충돌시키는데 그때 어마어마한 에너지가 생깁니다. 그 에너지로 인해서 어떤 물질의 존재여부를 확인할 수 있다는 가설을 세웠습니다.
-        그 물질이 바로 힉스 입자입니다.
-
-        1980년에 연구소에 중요한 인물이 도착합니다. 훗날 웹의 창시자가 될 팀 버너스 리입니다.
-        한편 그는 비정규직이었기 때문에 연구소에 계속 머무르지는 않았습니다. 10년 동안 연구소를 들어갔다 나갔다를 반복합니다. 그 때마다 그는 후에 웹의 전신이 될 프로그램을 만들고 또 만들고를 반복합니다.
-        1990년 10월에 웹페이지를 편집하는 프로그램을 만듭니다. 
-        1990년 11월에 세계 최초의 웹브라우저를 만듭니다. 이 웹브라우저의 이름이 바로 월드 와이드 웹(world wide web)이었습니다. 훗날 이 브라우저의 이름이 웹의 이름이 되죠.
-        1990년 12월 24일 크리스마스 이브에 마침내 웹서버를 완성합니다. 이 서버에 info.cern.ch라는 도메인 네임을 부여합니다.
-
-        자 웹브라우저를 켜세요. 주소창에 http://info.cern.ch 라고 입력해 보세요.
-        바로 이곳이 세계 최초의 웹페이지입니다. 여기가 웹의 메소포타미아입니다. 소름돋지 않나요? 저라면 셀카를 찍어서 SNS에 올리겠습니다.
-    </p>
-    <p>
-        <h1>Server & Client</h1>
-        <p><img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/3135/7752.jpeg"></p>
-        <span>Web Browser</span>
-        <span>Web Server</span>
-    </p>
-
-    <p>
-        <h1>Web Hosting</h1>
-        
-    </p>
-</body>
-</html>
+Eam habemus aliquando ut. Id idque virtute antiopam duo, et idque falli incorrupte eos, in sea omnium instructior. Mei ex nostrud moderatius cotidieque, cu sea partiendo euripidis, eam no tollit doming! Has ne facilisi vulputate, aliquando disputationi mel eu. Ex pri diceret delectus intellegam, regione definiebas pro ex.
